@@ -30,6 +30,6 @@ Based on the commit history and demonstration files, this repository covers back
 
 To explore the code and run the experiments locally, clone this repository to your local machine using the following command:
 
-`git clone https://github.com/augustiya21/BackendDevlopment.git`
+`git clone https://github.com/augustiya21/BackendDev.git`
 
 Navigate into either the `Backend Lab` or `Backend Theory` directories to find specific instructions and source code for the individual experiments and unit demonstrations.
