@@ -10,7 +10,7 @@ The repository is organized into distinct directories to keep theoretical concep
 
 | Directory / File | Description |
 | :--- | :--- |
-| **Backend Lab** | Contains practical lab assignments and code. Currently updated with materials up to Experiment 12. |
+| **Backend Lab** | Contains practical lab assignments and code.
 | **Backend Theory** | Houses theoretical coursework and unit demonstrations. Features examples such as Unit 1 demos utilizing Node.js with EJS, as well as Python Flask. |
 | **.gitignore** | Standard configuration file specifying untracked files that Git should ignore. |
 
